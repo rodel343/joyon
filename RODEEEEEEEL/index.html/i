@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Online Store</title>
+</head>
+<body style="background-color: wheat;">
+    <header id="top">
+        <h1 style="text-align: center; color: rgb(11, 11, 11);">All about Myself</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#about">About Myself</a></li>
+                <li><a href="#lifestory">My lifestory</a></li>
+                <li><a href="#Hobbies">Hobbies</a></li>
+                <li><a href="#favorites">Favorites</a></li>
+                <li><a href="#friends">Friends</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <hr>
+
+    <main>
+        <article id="about">
+            <section id="aboutMyself">
+                <h2>About Myself</h2>
+                <img src="/balog.jpg" alt="my image" style="width: 350px;">
+
+            <p>Hi i'm Rodel T. Timogan
+            
+            </p>
+            </section>
+
+            <section id="lifestory">
+                <h2>My lifestory</h2>
+                <figure>
+                    <img src="/465789002_8950599884984734_9088951590055572945_n.jpg" alt="my lifestory" height="350">
+                    <figcaption style="font-weight: bold;">
+                        as i remember me and my brother making fun of each other
+                    </figcaption>
+                    <p>
+
+                    </p>
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="Hobbies">
+            <section>
+                <h2>Hobbies</h2>
+                <figure>
+                    <img src="/8a8b50da2bc4afa933718061fe291520.jpg" alt="Product 1"height="350">
+                    <h1>My Hobby is playing Dota 2</h1>
+                </figure>
+            </section>
+
+            <section>
+                <h2>Favorites</h2>
+                <figure>
+                    <img src="/442ce059c4c490e1ab61cdaef9c98511.webp" alt="Product 1"height ="350">
+                    <h1>My favorite food is sinigang</h1>
+                </figure>
+            </section>
+
+
+
+            <section>
+                <h2>Friends</h2>
+                <figure>
+                    <img src="/raffax.jpg" alt="Product 1"height ="350">
+                    <img src="/jilog.jpg" alt="Product 1"height ="350">
+                    <h1>My old friend and current friend</h1>
+
+                </figure>
+            </section>
+        </article>
+
+        <hr>
+
+        <article id="contact">
+            <section>
+                <h2>Contact Us</h2>
+                <p>Reach us out wiht these following contact deatails...</p>
+                <ul>
+                    <li>
+                        Landline: 
+                    </li>
+                    <li>
+                        Phone Number: 009309833589
+                    </li>
+                    <li>
+                        Email: <a href="timogan@gmail.com">timoganjoyon@gmail.com</a>
+                    </li>
+                </ul>
+            </section>
+        </article>
+
+    </main>
+
+    <hr>
+
+    <footer style="text-align: center;"">
+        <p  style="font-weight: bold;">All Rights Reserved &copy; RODEL T. TIMOGAN JR. 2025</p>
+        <a href="#top" style="text-align: center;">Back to Top</a>
+    </footer>
+</body>
+</html>
